@@ -3,3 +3,4 @@ image-resize/obj/
 .gitignore
 /image-resize/obj
 /image-resize/bin
+/.vs
