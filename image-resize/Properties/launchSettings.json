@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "image-resize": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Luqui\\Desktop\\imagenes-yuvel\\FOTOS C:\\Users\\Luqui\\Desktop\\imagenes-yuvel\\FOTOS-Resized 30"
+    }
+  }
+}

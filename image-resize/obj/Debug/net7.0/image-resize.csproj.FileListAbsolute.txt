@@ -1,0 +1,17 @@
+C:\Users\Luqui\source\repos\image-resize\image-resize\bin\Debug\net7.0\image-resize.exe
+C:\Users\Luqui\source\repos\image-resize\image-resize\bin\Debug\net7.0\image-resize.deps.json
+C:\Users\Luqui\source\repos\image-resize\image-resize\bin\Debug\net7.0\image-resize.runtimeconfig.json
+C:\Users\Luqui\source\repos\image-resize\image-resize\bin\Debug\net7.0\image-resize.dll
+C:\Users\Luqui\source\repos\image-resize\image-resize\bin\Debug\net7.0\image-resize.pdb
+C:\Users\Luqui\source\repos\image-resize\image-resize\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.csproj.AssemblyReference.cache
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.AssemblyInfoInputs.cache
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.AssemblyInfo.cs
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.csproj.CoreCompileInputs.cache
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.csproj.CopyComplete
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.dll
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\refint\image-resize.dll
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.pdb
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\image-resize.genruntimeconfig.cache
+C:\Users\Luqui\source\repos\image-resize\image-resize\obj\Debug\net7.0\ref\image-resize.dll
